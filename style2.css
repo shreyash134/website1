@@ -1,0 +1,19 @@
+.contact {
+    text-align: right;
+    display: flexbox;
+    background-color: yellow;
+}
+
+.header {
+    text-align: center;
+    background-color: rgb(68, 191, 196);
+}
+
+body {
+    background-color: rgb(21, 240, 192);
+}
+
+.footer {
+    background-color: rgb(16, 114, 179);
+    align-content: center;
+}
